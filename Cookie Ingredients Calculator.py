@@ -1,7 +1,7 @@
 #
 #   Eric Lesende
 #
-#   A simple program for estimating a ount of ingredients
+#   A simple program for estimating amount of ingredients
 #   needed for x amount of cookies
 #
 
