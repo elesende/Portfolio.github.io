@@ -1,10 +1,11 @@
 #
 #   Eric Lesende
 #
+#   cookieIngredientsCalculator.py
+#
 #   A simple program for estimating amount of ingredients
 #   needed for x amount of cookies
 #
-
 def calculate_ingredients():
     while True:
         cookies = input("Enter the number of cookies: ")
