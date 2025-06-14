@@ -1,11 +1,11 @@
 #
-# Eric Lesende
+#   Eric Lesende
 #
 #
-# rouletteColorWheel.py
+#   rouletteColorWheel.py
 #
-# Roulette Wheel Colors App
-# Determines the color of a roulette wheel pocket based on user input (0–36)
+#   Roulette Wheel Colors App
+#   Determines the color of a roulette wheel pocket based on user input (0–36)
 
 def main():
     # Introduction
