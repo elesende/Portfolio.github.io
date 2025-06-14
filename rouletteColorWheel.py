@@ -1,7 +1,6 @@
 #
 #   Eric Lesende
 #
-#
 #   rouletteColorWheel.py
 #
 #   Roulette Wheel Colors App
